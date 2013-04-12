@@ -21,7 +21,7 @@
 <html>
     <head>
         <title>Wave Watchers Members</title>
-        <style>
+        <style type="text/css">
             body {
                 background-color: __UP_BG_COLOR__;
             img {

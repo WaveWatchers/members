@@ -26,8 +26,8 @@
                 background-color: __UP_BG_COLOR__;
             img {
                 border: 0;
-                width: __UP_AVATAR_SIZE__px;
-                height: __UP_AVATAR_SIZE__px;
+                width: __UP_AVATAR_SIZE__px !important;
+                height: __UP_AVATAR_SIZE__px !important;
             }
         </style>
     </head>

@@ -22,8 +22,10 @@
     <head>
         <title>Wave Watchers Members</title>
         <style>
+	    * { margin: 0; padding: 0; }
             body {
                 background-color: __UP_BG_COLOR__;
+                padding: .3em;
             }
             img {
                 border: 0;
